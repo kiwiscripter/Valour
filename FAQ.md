@@ -23,7 +23,7 @@ System roles would be applied to every planet within the system. This would also
 ## Can I have sub-catagories?
 Yes you can have as many as you want in your planet.
 ## How will Valour handle user reports?
-Valour will priorities user reports that break the law such as doxxing, illegal material, extortion, etc... We will also confirm if a user did send certain messages. Valour will not punish people for being offensive however and only assure safety and law.
+Valour will prioritize user reports that break the law such as doxxing, illegal material, extortion, etc... We will also confirm if a user did send certain messages. Valour will not punish people for being offensive however and only assure safety and law.
 
 # Unanswered questions:
 ## How will Valour be monetized?
